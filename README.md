@@ -32,7 +32,7 @@
 </td>
 <td width="36%" align="center">
 
-<img src="assets/hoshino-mianmian-avatar.png" width="245" alt="星野眠眠：银紫短发、奶油粉猫耳帽和小猫玩偶的原创动漫形象" />
+<img src="assets/hoshino-mianmian-avatar.jpg" width="245" alt="星野眠眠：银紫短发、奶油粉猫耳帽和小猫玩偶的原创动漫形象" />
 
 <sub>星野眠眠 · Hoshino Mianmian</sub>
 
