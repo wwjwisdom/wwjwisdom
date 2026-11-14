@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Process Memory Lite — keep an eye on every little byte">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff2f6"/><stop offset=".6" stop-color="#f3edff"/><stop offset="1" stop-color="#eaf4fd"/></linearGradient><pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1" fill="#d1bce2" opacity=".45"/></pattern></defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/><rect width="1200" height="300" rx="28" fill="url(#p)"/><rect x="14" y="14" width="1172" height="272" rx="21" fill="none" stroke="#dac2e8" stroke-dasharray="5 7"/>
+  <path d="M0 260q100-34 200 0t200 0t200 0t200 0t200 0t200 0v40H0Z" fill="#fff" opacity=".6"/>
+  <text x="72" y="75" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#a484b7">A TINY TOOL FROM HOSHINO'S WORKSHOP</text>
+  <text x="67" y="147" font-family="Georgia,serif" font-size="61" font-weight="bold" fill="#75538c">Process Memory Lite</text>
+  <text x="73" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#a17bad">keep an eye on every little byte</text>
+  <rect x="73" y="219" width="255" height="29" rx="14.5" fill="white" opacity=".8"/><text x="91" y="239" font-family="Consolas,monospace" font-size="13" fill="#a389b6">Windows x64 · live charts · TXT</text>
+  <g transform="translate(945 132)" stroke="#b399cd" stroke-width="3" stroke-linejoin="round"><rect x="-93" y="-32" width="186" height="117" rx="13" fill="#fffafd"/><path d="M-80-32v-29l37 29m86 0 37-29v29" fill="#fffafd"/><path d="M-73 52h25l13-24 19 39 24-54 24 39h41" fill="none" stroke="#d8a5cc" stroke-width="4" stroke-linecap="round"/><path d="M-25 85v21m50-21v21m-61 0h72" fill="none" stroke-linecap="round"/><circle cx="-64" cy="-13" r="3" fill="#ddbdcf" stroke="none"/><circle cx="-50" cy="-13" r="3" fill="#d8c5ea" stroke="none"/></g>
+  <g fill="#d6b5e4"><path d="m1084 60 4 12 12 4-12 4-4 12-4-12-12-4 12-4Z"/><path d="m817 210 3 9 9 3-9 3-3 9-3-9-9-3 9-3Z"/><circle cx="1093" cy="203" r="3"/></g>
+</svg>

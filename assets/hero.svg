@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Hoshino Mianmian — a little corner of code and starlight">
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#fff2f6"/><stop offset=".55" stop-color="#f5edff"/><stop offset="1" stop-color="#eef5ff"/></linearGradient>
+    <linearGradient id="moon"><stop stop-color="#fffaf0"/><stop offset="1" stop-color="#ffe8ad"/></linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.3" fill="#cbb4db" opacity=".3"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#sky)"/>
+  <rect x="14" y="14" width="1172" height="312" rx="22" fill="none" stroke="#dcbfe4" stroke-dasharray="5 7"/>
+  <rect width="1200" height="340" rx="28" fill="url(#dots)"/>
+  <path d="M0 282Q90 242 180 280T360 286T540 281T720 286T900 276T1080 286T1260 280V340H0Z" fill="#fff" opacity=".7"/>
+  <g fill="#fff" opacity=".8"><ellipse cx="1020" cy="276" rx="120" ry="28"/><ellipse cx="975" cy="260" rx="45" ry="37"/><ellipse cx="1038" cy="251" rx="62" ry="43"/></g>
+  <g transform="translate(1010 99)"><circle r="53" fill="url(#moon)"/><circle cx="22" cy="-20" r="49" fill="#f0edfd"/></g>
+  <g fill="#d9b7e7"><path d="M884 70l4 12 12 4-12 4-4 12-4-12-12-4 12-4Z"/><path d="M1100 166l5 15 15 5-15 5-5 15-5-15-15-5 15-5Z"/></g>
+  <g fill="#edb8ce"><path d="M811 235l4 13 13 4-13 4-4 13-4-13-13-4 13-4Z"/><circle cx="1109" cy="80" r="4"/><circle cx="875" cy="183" r="3"/></g>
+  <g transform="translate(975 225)" stroke="#b79bc7" stroke-width="2.5" stroke-linejoin="round"><path d="M-35 24V-18l23 16a57 57 0 0 1 24 0l23-16v42q0 25-35 25t-35-25Z" fill="#fff9fe"/><path d="M-19 17q5 6 10 0m18 0q5 6 10 0m-23 12q4 6 8 0" fill="none" stroke-linecap="round"/><ellipse cx="-22" cy="28" rx="6" ry="3" fill="#f5c1d7" stroke="none"/><ellipse cx="22" cy="28" rx="6" ry="3" fill="#f5c1d7" stroke="none"/></g>
+  <text x="76" y="86" fill="#a682b5" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="5">WELCOME TO MY LITTLE CORNER</text>
+  <text x="70" y="160" fill="#77558c" font-family="Georgia,serif" font-size="59" font-weight="bold">Hoshino Mianmian</text>
+  <text x="76" y="207" fill="#a37eae" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="3">CODE · CATS · STARLIGHT</text>
+  <rect x="76" y="237" width="188" height="30" rx="15" fill="#fff" opacity=".85"/>
+  <text x="94" y="258" fill="#b18aa8" font-family="Consolas,monospace" font-size="13">a little magic in code</text>
+  <path d="M701 114c-16-20-40 3 0 30 40-27 16-50 0-30Z" fill="#efb9d2" opacity=".7"/>
+</svg>
